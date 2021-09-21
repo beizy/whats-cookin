@@ -56,14 +56,10 @@ Please see our demo video [here](https://www.youtube.com/watch?v=aHChq0GsRFE).
 
 **Developers:**
 
-_This app was developed by:_
-
 - [Carlos Gomez](https://github.com/karmacarlos)
 - [Bei Zhang](https://github.com/lokiandfengshui)
 - [Raquel Hill](https://github.com/Raquelhill)
 - [Nolan Caine](https://github.com/n0land0)
-
-_Carlos, Bei, Raquel, and Nolan are students of front-end engineering at the Turing School of Software & Design._
 
 **Project Manager**
 
